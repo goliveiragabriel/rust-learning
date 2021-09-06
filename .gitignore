@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 samples/target
 guessing_game/target
+variables/target
