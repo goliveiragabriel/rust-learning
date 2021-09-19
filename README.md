@@ -2,7 +2,8 @@
 This is a learning project created using Cargo Package Manager which includes projects above:
 1. samples: hello world project 
 2. guessing_game: Rust's book project
-3. variables: Covers the topic 3.1 Variables and Mutability from [source](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
+3. tuples: Covers the topic 2.2 from [source](https://doc.rust-lang.org/stable/rust-by-example/primitives/tuples.html)
+4. variables: Covers the topic 3.1 Variables and Mutability from [source](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
    
 ## How to create new project
 To create a new package use the command: `cargo new samples`.
